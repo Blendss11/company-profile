@@ -1,0 +1,23 @@
+body{
+    color: #131313;
+}
+.home{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background:url(../img/poto.kopi.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.jarak-kiri{
+    margin-left: 280px ;
+}
+
+h1 p h2{
+    color: aliceblue;
+
+}
+
+
+
+
